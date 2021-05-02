@@ -1,0 +1,12 @@
+package fourthDayFirstHomework;
+
+public class CustomerManager {
+
+	CustomerDal customerDal;
+	
+	public void add() {
+	
+		customerDal.Add();
+		
+	}
+}
