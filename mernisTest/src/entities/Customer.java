@@ -1,17 +1,16 @@
-package Entities;
-
-import java.util.Date;
+package entities;
 
 public class Customer {
+
 
 	private int id;
 	private String firstName;
 	private String lastName;
-	private Date dateOfBirth;
+	private int dateOfBirth;
 	private String nationaltyId;
 	
-	public Customer(int id, String firstName, String lastName, Date dateOfBirth, String nationaltyId) {
-	
+	public Customer(int id, String firstName, String lastName, int dateOfBirth, String nationaltyId) {
+		super();
 		this.id = id;
 		this.firstName = firstName;
 		this.lastName = lastName;
@@ -43,11 +42,11 @@ public class Customer {
 		this.lastName = lastName;
 	}
 
-	public Date getDateOfBirth() {
+	public int getDateOfBirth() {
 		return dateOfBirth;
 	}
 
-	public void setDateOfBirth(Date dateOfBirth) {
+	public void setDateOfBirth(int dateOfBirth) {
 		this.dateOfBirth = dateOfBirth;
 	}
 
@@ -58,7 +57,4 @@ public class Customer {
 	public void setNationaltyId(String nationaltyId) {
 		this.nationaltyId = nationaltyId;
 	}
-	
-	
-	
 }
