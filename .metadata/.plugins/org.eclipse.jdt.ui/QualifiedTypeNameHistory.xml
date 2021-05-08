@@ -1,2 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="fourthDayFirstHomework.CustomerDal"/>
+    <fullyQualifiedTypeName name="fourthDayFirstHomework.CustomerManager"/>
+    <fullyQualifiedTypeName name="fourthDayFirstHomework.MySqlCustomerDal"/>
+    <fullyQualifiedTypeName name="fourthDayFirstHomework.OracleCustomerDal"/>
+    <fullyQualifiedTypeName name="interfaceDemo.Eatable"/>
+    <fullyQualifiedTypeName name="interfaceDemo.Payable"/>
+    <fullyQualifiedTypeName name="Abstract.Entity"/>
+    <fullyQualifiedTypeName name="Concrete.SturbucksCustomerManager"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="Concrete.NeroCustomerManager"/>
+    <fullyQualifiedTypeName name="Concrete.BaseCustomerManager"/>
+    <fullyQualifiedTypeName name="Concrete.StarbucksCustomerManager"/>
+    <fullyQualifiedTypeName name="Adapters.MernisServiceAdapter"/>
+    <fullyQualifiedTypeName name="Abstract.CustomerService"/>
+    <fullyQualifiedTypeName name="Abstract.CustomerCheckService"/>
+    <fullyQualifiedTypeName name="Entities.Customer"/>
+    <fullyQualifiedTypeName name="java.lang.Long"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="concrete.BaseCustomerManager"/>
+    <fullyQualifiedTypeName name="concrete.StarbucksCustomerManager"/>
+    <fullyQualifiedTypeName name="entities.Customer"/>
+    <fullyQualifiedTypeName name="entities.Entity"/>
+    <fullyQualifiedTypeName name="abstracts.CampaignService"/>
+    <fullyQualifiedTypeName name="abstracts.OrderService"/>
+    <fullyQualifiedTypeName name="abstracts.GameService"/>
+    <fullyQualifiedTypeName name="abstracts.CustomerService"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="abstracts.CustomerCheckService"/>
+    <fullyQualifiedTypeName name="tr.gov.nvi.tckimlik.WS.KPSPublicSoapProxy"/>
+    <fullyQualifiedTypeName name="tr.gov.nvi.tckimlik.WS.KPSPublicSoap"/>
+    <fullyQualifiedTypeName name="java.rmi.RemoteException"/>
+    <fullyQualifiedTypeName name="concrete.CustomerManager"/>
+    <fullyQualifiedTypeName name="adapters.MernisServiceAdapter"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="concrete.GameManager"/>
+    <fullyQualifiedTypeName name="concrete.CampaignManager"/>
+    <fullyQualifiedTypeName name="concrete.OrderManager"/>
+    <fullyQualifiedTypeName name="entities.concrete.Customer"/>
+    <fullyQualifiedTypeName name="entities.concrete.Game"/>
+    <fullyQualifiedTypeName name="entities.concrete.Campaign"/>
+    <fullyQualifiedTypeName name="entities.concrete.Order"/>
+</qualifiedTypeNameHistroy>
